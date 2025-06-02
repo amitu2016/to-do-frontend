@@ -16,7 +16,7 @@ const nextConfig = {
     ]
   },
   env: {
-    NEXT_PUBLIC_API_URL: 'http://to-do-app-env.eba-pj9gtcax.us-east-1.elasticbeanstalk.com'
+    NEXT_PUBLIC_API_URL: 'https://to-do-app-env.eba-pj9gtcax.us-east-1.elasticbeanstalk.com'
   }
 };
 
